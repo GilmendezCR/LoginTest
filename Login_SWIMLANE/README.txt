@@ -10,7 +10,7 @@ To utilize the unitesting module is really important to import it by using: impo
 Note: In case you have problems with the driver path on line 11 please do right click on where the driver is(Chrome_Driver > chromedriver.exe)
 and right click on it and copy the path. You can use absolute or relative. Personally I used relative.
 
-When the automated test if finished this one will generate a HTML report. Reports > 
+When the automated test is finished this one will generate a HTML report. Reports > 
 
 
 
