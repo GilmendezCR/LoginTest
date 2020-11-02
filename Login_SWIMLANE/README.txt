@@ -8,6 +8,7 @@ OS used            ver.Windows 10
 Commands for troubleshooting:
 pip list: This will display all current packages installed
 pip install selenium: This will intall selenium in case it is not installed
+pip install html-testRunner: This will install the HTML reports
 
 
 To utilize the unitesting module is really important to import it by using: import unittest
